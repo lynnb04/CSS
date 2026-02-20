@@ -38,5 +38,5 @@ Which CSS techniques will you start with?
 Where do your (major) challenges lie?
   Working with random generation and making sure that it works correctly. Switching my mindset from designing the end result to designing the system that randomly makes the end result.
 Include sketch(es) of your design.
-  <img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/c9cb16a7-817c-453e-8333-77b8f7b8c1a6" />
-  <img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/70979d79-2262-41b0-9e8a-c083c13f1bb5" />
+  <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/c9cb16a7-817c-453e-8333-77b8f7b8c1a6" />
+  <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/70979d79-2262-41b0-9e8a-c083c13f1bb5" />
