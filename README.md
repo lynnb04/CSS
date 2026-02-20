@@ -31,12 +31,20 @@ Mijn repo voor het vak CSS
   Feedbackgesprekken en ik ga verder werken.
 
 ### Voortgang week 1
-Your assignment choice, and the options you select:
-  CMD Artifaction
-Which CSS techniques will you start with?
-  Container queries, @layer, maybe: calc(), hsl(), transform()
-Where do your (major) challenges lie?
-  Working with random generation and making sure that it works correctly. Switching my mindset from designing the end result to designing the system that randomly makes the end result.
-Include sketch(es) of your design.
+Your assignment choice, and the options you select:  
+  CMD Artifaction  
+Which CSS techniques will you start with?  
+  Container queries, @layer, maybe: calc(), hsl(), transform()  
+Where do your (major) challenges lie?  
+  Working with random generation and making sure that it works correctly. Switching my mindset from designing the end result to designing the system that randomly makes the end result.  
   <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/c9cb16a7-817c-453e-8333-77b8f7b8c1a6" />
-  <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/70979d79-2262-41b0-9e8a-c083c13f1bb5" />
+  <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/70979d79-2262-41b0-9e8a-c083c13f1bb5" />  
+Notes:  
+svgomg  
+svg { { path fill: ...; }  }  
+border: solid currentColor;  
+preserveAspectRatio = "none" svg stretch  
+url encoder for svg  
+ana tudor  
+je kan keyframes in url() zetten  
+
