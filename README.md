@@ -1,5 +1,5 @@
 # CSS to the Rescue
-Mijn repo voor het vak CSS
+Mijn repo voor het vak CSS to the Rescue
 
 
 ## Mijn leerdoelen
