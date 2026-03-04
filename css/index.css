@@ -1,0 +1,33 @@
+/* ///////////////// */
+/* custom properties */
+/* ///////////////// */
+:root {
+    --cmd-zwart: #000;
+    --cmd-wit: #fff;
+    --cmd-geel: #FFF021;
+    --cmd-pepermunt: #E0F5DF;
+    --cmd-papaya: #FAF0D7;
+    --cmd-lavendel: #F0EBF0;
+}
+
+
+
+/* //// */
+/* body */
+/* //// */
+body {
+    background-color: var(--cmd-zwart);
+}
+
+
+
+/* /// */
+/* div */
+/* /// */
+div {
+    background-color: transparent;
+    border: 2px solid var(--cmd-geel);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
